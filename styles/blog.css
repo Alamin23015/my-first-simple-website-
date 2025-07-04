@@ -2,4 +2,28 @@ div{
 background-color: tomato;
 padding:10px;
 margin-bottom: 10px;
-}
+}  
+        .blog{
+            size-adjust: 50%;
+        }
+        .bb{
+            font-style: italic;
+            font-size: 30px;
+            color:red;
+            /* font-color: Red; */
+            /* background-color: aqua; */
+            /* background-size: 20%; */
+        }
+        .aa{
+            font-style: italic;
+            font-size: 30px;
+            color:rgb(55, 255, 0);
+
+        }
+        .c{
+            background-color: blueviolet;
+            width: 80%;
+            text-align: justify;
+        }
+
+  
